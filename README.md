@@ -4,7 +4,7 @@
 ```
 brew install python-tk
 brew install portaudio
-pip3 install pyaudio
+pip3 install pyaudio, tk
 ```
 
 ## Run application by:
